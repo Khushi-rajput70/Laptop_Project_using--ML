@@ -54,7 +54,7 @@ Jupyter Notebook – Development
 
 📊 Results
 
-Best performing model achieved an R² score of XX% and a Mean Absolute Error of YY (update once you test your models).
+Best performing model achieved an R² score of 73% and a Root Mean Absolute Error of 19847 Rupees.
 
 Price prediction is strongly influenced by processor type, RAM size, storage capacity, and GPU.
 
